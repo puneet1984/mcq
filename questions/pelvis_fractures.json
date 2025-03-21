@@ -1,0 +1,39 @@
+{
+  "topic": "Pelvis Fractures",
+  "total_questions": 100,
+  "questions": {
+    "basic_level": [
+      {
+        "id": "2.1",
+        "question": "Which of the following structures forms the pelvic ring anteriorly?",
+        "options": [
+          {"id": "a", "text": "Symphysis pubis"},
+          {"id": "b", "text": "Sacroiliac joint"},
+          {"id": "c", "text": "Sacrotuberous ligament"},
+          {"id": "d", "text": "Sacrospinous ligament"}
+        ],
+        "correct_answer": "a",
+        "explanation": "The symphysis pubis is the anterior connection of the pelvic ring, formed by the junction of the two pubic bones."
+      },
+      {
+        "id": "2.2",
+        "question": "Which ligament prevents external rotation of the hemipelvis?",
+        "options": [
+          {"id": "a", "text": "Sacrospinous ligament"},
+          {"id": "b", "text": "Anterior sacroiliac ligament"},
+          {"id": "c", "text": "Sacrotuberous ligament"},
+          {"id": "d", "text": "Posterior sacroiliac ligament"}
+        ],
+        "correct_answer": "b",
+        "explanation": "The anterior sacroiliac ligament is crucial in preventing external rotation of the hemipelvis and maintaining pelvic stability."
+      }
+      // ... Add remaining basic level questions (up to 2.40)
+    ],
+    "moderate_level": [
+      // ... Add moderate level questions (2.41 to 2.80)
+    ],
+    "high_level": [
+      // ... Add high level questions (2.81 to 2.100)
+    ]
+  }
+}

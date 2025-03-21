@@ -1,0 +1,39 @@
+{
+  "topic": "Amputations",
+  "total_questions": 100,
+  "questions": {
+    "basic_level": [
+      {
+        "id": "8.1",
+        "question": "Which of the following is NOT a common indication for lower limb amputation?",
+        "options": [
+          {"id": "a", "text": "Peripheral vascular disease"},
+          {"id": "b", "text": "Trauma with irreparable neurovascular injury"},
+          {"id": "c", "text": "Simple closed fracture"},
+          {"id": "d", "text": "Malignant bone tumors"}
+        ],
+        "correct_answer": "c",
+        "explanation": "Simple closed fractures can typically be treated with reduction and fixation methods, and do not require amputation unless there are significant complications."
+      },
+      {
+        "id": "8.2",
+        "question": "Which level of amputation preserves the knee joint?",
+        "options": [
+          {"id": "a", "text": "Above-knee amputation"},
+          {"id": "b", "text": "Through-knee amputation"},
+          {"id": "c", "text": "Below-knee amputation"},
+          {"id": "d", "text": "Hip disarticulation"}
+        ],
+        "correct_answer": "c",
+        "explanation": "Below-knee amputation (transtibial amputation) preserves the knee joint, which significantly improves mobility and energy expenditure during prosthetic use compared to above-knee amputations."
+      }
+      // ... remaining basic level questions
+    ],
+    "moderate_level": [
+      // ... moderate level questions
+    ],
+    "high_level": [
+      // ... high level questions
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "topic": "Proximal Tibia Fractures",
+  "total_questions": 100,
+  "questions": {
+    "basic_level": [
+      {
+        "id": "5.1",
+        "question": "Which of the following is a true statement regarding tibial plateau anatomy?",
+        "options": [
+          {"id": "a", "text": "The medial plateau is larger and more concave than the lateral plateau"},
+          {"id": "b", "text": "The lateral plateau is larger and more concave than the medial plateau"},
+          {"id": "c", "text": "Both plateaus are of equal size and concavity"},
+          {"id": "d", "text": "The medial plateau is smaller but more concave than the lateral plateau"}
+        ],
+        "correct_answer": "a",
+        "explanation": "The medial tibial plateau is larger and more concave than the lateral plateau, which is smaller and more convex, allowing for greater rotational movement."
+      },
+      {
+        "id": "5.2",
+        "question": "Which structure provides the principal blood supply to the proximal tibia?",
+        "options": [
+          {"id": "a", "text": "Anterior tibial artery"},
+          {"id": "b", "text": "Posterior tibial artery"},
+          {"id": "c", "text": "Genicular arterial network"},
+          {"id": "d", "text": "Popliteal artery"}
+        ],
+        "correct_answer": "c",
+        "explanation": "The genicular arterial network, which includes the medial and lateral superior and inferior genicular arteries, provides the principal blood supply to the proximal tibia."
+      }
+      // ... remaining basic level questions
+    ],
+    "moderate_level": [
+      // ... moderate level questions
+    ],
+    "high_level": [
+      // ... high level questions
+    ]
+  }
+}

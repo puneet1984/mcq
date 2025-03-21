@@ -1,0 +1,39 @@
+{
+  "topic": "Foot Fractures",
+  "total_questions": 100,
+  "questions": {
+    "basic_level": [
+      {
+        "id": "7.1",
+        "question": "Which tarsal bone articulates with the navicular, cuboid, and calcaneus?",
+        "options": [
+          {"id": "a", "text": "Talus"},
+          {"id": "b", "text": "Cuneiform"},
+          {"id": "c", "text": "Metatarsal"},
+          {"id": "d", "text": "Phalanx"}
+        ],
+        "correct_answer": "a",
+        "explanation": "The talus articulates with the navicular anteriorly, the calcaneus inferiorly, and has a small articulation with the cuboid laterally in some individuals."
+      },
+      {
+        "id": "7.2",
+        "question": "Blood supply to the talus primarily comes from which of the following?",
+        "options": [
+          {"id": "a", "text": "Dorsalis pedis artery"},
+          {"id": "b", "text": "Posterior tibial artery"},
+          {"id": "c", "text": "Peroneal artery"},
+          {"id": "d", "text": "All of the above"}
+        ],
+        "correct_answer": "d",
+        "explanation": "The talus receives blood supply from branches of all three major arteries: the dorsalis pedis (anterior), posterior tibial, and peroneal arteries, making it susceptible to avascular necrosis when these vessels are damaged."
+      }
+      // ... remaining basic level questions
+    ],
+    "moderate_level": [
+      // ... moderate level questions
+    ],
+    "high_level": [
+      // ... high level questions
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "topic": "Infections of Hand",
+  "total_questions": 100,
+  "questions": {
+    "basic_level": [
+      {
+        "id": "17.1",
+        "question": "Which of the following spaces is NOT a part of the deep palmar space?",
+        "options": [
+          {"id": "a", "text": "Thenar space"},
+          {"id": "b", "text": "Midpalmar space"},
+          {"id": "c", "text": "Hypothenar space"},
+          {"id": "d", "text": "Adductor space"}
+        ],
+        "correct_answer": "c",
+        "explanation": "The hypothenar space is a separate compartment on the ulnar side of the palm and is not considered part of the deep palmar space."
+      },
+      {
+        "id": "17.2",
+        "question": "Which organism is the most common cause of acute paronychia?",
+        "options": [
+          {"id": "a", "text": "Staphylococcus aureus"},
+          {"id": "b", "text": "Streptococcus pyogenes"},
+          {"id": "c", "text": "Pseudomonas aeruginosa"},
+          {"id": "d", "text": "Candida albicans"}
+        ],
+        "correct_answer": "a",
+        "explanation": "Staphylococcus aureus is the most common cause of acute paronychia, which is an infection of the nail fold."
+      }
+      // ... remaining basic level questions
+    ],
+    "moderate_level": [
+      // ... moderate level questions
+    ],
+    "high_level": [
+      // ... high level questions
+    ]
+  }
+}

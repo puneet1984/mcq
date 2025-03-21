@@ -1,0 +1,39 @@
+{
+  "topic": "Tuberculosis - General",
+  "total_questions": 100,
+  "questions": {
+    "basic_level": [
+      {
+        "id": "10.1",
+        "question": "Which organism causes tuberculosis?",
+        "options": [
+          {"id": "a", "text": "Mycobacterium leprae"},
+          {"id": "b", "text": "Mycobacterium tuberculosis"},
+          {"id": "c", "text": "Mycobacterium avium"},
+          {"id": "d", "text": "Mycobacterium marinum"}
+        ],
+        "correct_answer": "b",
+        "explanation": "Mycobacterium tuberculosis is the primary causative agent of tuberculosis in humans. It is an acid-fast bacillus characterized by its unique cell wall structure containing mycolic acids."
+      },
+      {
+        "id": "10.2",
+        "question": "Which of the following is the characteristic histological feature of tuberculosis?",
+        "options": [
+          {"id": "a", "text": "Pyogenic granuloma"},
+          {"id": "b", "text": "Caseating granuloma"},
+          {"id": "c", "text": "Non-caseating granuloma"},
+          {"id": "d", "text": "Microabscess"}
+        ],
+        "correct_answer": "b",
+        "explanation": "Caseating granulomas are the hallmark histological feature of tuberculosis. They consist of epithelioid histiocytes, multinucleated giant cells (Langhans giant cells), and central caseous necrosis."
+      }
+      // ... remaining basic level questions
+    ],
+    "moderate_level": [
+      // ... moderate level questions
+    ],
+    "high_level": [
+      // ... high level questions
+    ]
+  }
+}

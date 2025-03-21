@@ -1,0 +1,39 @@
+{
+  "topic": "Metabolic Bone Diseases",
+  "total_questions": 100,
+  "questions": {
+    "basic_level": [
+      {
+        "id": "18.1",
+        "question": "Which of the following is the most common metabolic bone disease?",
+        "options": [
+          {"id": "a", "text": "Osteoporosis"},
+          {"id": "b", "text": "Osteomalacia"},
+          {"id": "c", "text": "Paget's disease"},
+          {"id": "d", "text": "Hyperparathyroidism"}
+        ],
+        "correct_answer": "a",
+        "explanation": "Osteoporosis is the most common metabolic bone disease, characterized by decreased bone density and increased fracture risk."
+      },
+      {
+        "id": "18.2",
+        "question": "Which vitamin deficiency is primarily responsible for osteomalacia?",
+        "options": [
+          {"id": "a", "text": "Vitamin A"},
+          {"id": "b", "text": "Vitamin C"},
+          {"id": "c", "text": "Vitamin D"},
+          {"id": "d", "text": "Vitamin K"}
+        ],
+        "correct_answer": "c",
+        "explanation": "Vitamin D deficiency is the primary cause of osteomalacia, leading to inadequate mineralization of bone matrix."
+      }
+      // ... remaining basic level questions
+    ],
+    "moderate_level": [
+      // ... moderate level questions
+    ],
+    "high_level": [
+      // ... high level questions
+    ]
+  }
+}

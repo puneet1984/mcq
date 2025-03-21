@@ -1,0 +1,51 @@
+{
+  "topic": "Proximal Femur Fractures",
+  "total_questions": 100,
+  "questions": {
+    "basic_level": [
+      {
+        "id": "3.1",
+        "question": "Garden classification is used for which type of fracture?",
+        "options": [
+          {"id": "a", "text": "Intertrochanteric fractures"},
+          {"id": "b", "text": "Femoral neck fractures"},
+          {"id": "c", "text": "Subtrochanteric fractures"},
+          {"id": "d", "text": "Basicervical fractures"}
+        ],
+        "correct_answer": "b",
+        "explanation": "Garden classification is specifically used for femoral neck fractures, describing four stages based on the degree of displacement and vascular compromise."
+      },
+      {
+        "id": "3.2",
+        "question": "Which blood vessels primarily supply the femoral head in adults?",
+        "options": [
+          {"id": "a", "text": "Medial femoral circumflex artery"},
+          {"id": "b", "text": "Lateral femoral circumflex artery"},
+          {"id": "c", "text": "Obturator artery"},
+          {"id": "d", "text": "Profunda femoris artery"}
+        ],
+        "correct_answer": "a",
+        "explanation": "The medial femoral circumflex artery provides the primary blood supply to the femoral head in adults through the retinacular vessels."
+      },
+      {
+        "id": "3.3",
+        "question": "What is the most common mechanism of injury for intertrochanteric fractures?",
+        "options": [
+          {"id": "a", "text": "High-energy trauma"},
+          {"id": "b", "text": "Direct blow to hip"},
+          {"id": "c", "text": "Low-energy fall in elderly"},
+          {"id": "d", "text": "Sports injury"}
+        ],
+        "correct_answer": "c",
+        "explanation": "Intertrochanteric fractures most commonly occur in elderly patients after low-energy falls, typically due to osteoporotic bone."
+      }
+      // ... Add remaining basic level questions (up to 3.40)
+    ],
+    "moderate_level": [
+      // ... Add moderate level questions (3.41 to 3.80)
+    ],
+    "high_level": [
+      // ... Add high level questions (3.81 to 3.100)
+    ]
+  }
+}

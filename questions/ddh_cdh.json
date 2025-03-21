@@ -1,0 +1,39 @@
+{
+  "topic": "DDH / CDH",
+  "total_questions": 100,
+  "questions": {
+    "basic_level": [
+      {
+        "id": "13.1",
+        "question": "What does DDH stand for in orthopedics?",
+        "options": [
+          {"id": "a", "text": "Distal Dislocated Hip"},
+          {"id": "b", "text": "Developmental Dysplasia of the Hip"},
+          {"id": "c", "text": "Degenerative Disease of the Hip"},
+          {"id": "d", "text": "Displaced Diaphyseal Hip"}
+        ],
+        "correct_answer": "b",
+        "explanation": "DDH stands for Developmental Dysplasia of the Hip, which encompasses a spectrum of abnormalities ranging from mild dysplasia to complete dislocation of the hip joint."
+      },
+      {
+        "id": "13.2",
+        "question": "Which of the following is a risk factor for Developmental Dysplasia of the Hip?",
+        "options": [
+          {"id": "a", "text": "Male gender"},
+          {"id": "b", "text": "Vertex presentation"},
+          {"id": "c", "text": "Breech presentation"},
+          {"id": "d", "text": "Second-born child"}
+        ],
+        "correct_answer": "c",
+        "explanation": "Breech presentation is a significant risk factor for DDH due to the positioning of the hips in utero. Other risk factors include female gender, first-born child, and positive family history."
+      }
+      // ... remaining basic level questions
+    ],
+    "moderate_level": [
+      // ... moderate level questions
+    ],
+    "high_level": [
+      // ... high level questions
+    ]
+  }
+}

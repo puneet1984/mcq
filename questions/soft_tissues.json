@@ -1,0 +1,39 @@
+{
+  "topic": "Affections of Soft Tissues",
+  "total_questions": 100,
+  "questions": {
+    "basic_level": [
+      {
+        "id": "19.1",
+        "question": "Which of the following is the most common benign soft tissue tumor?",
+        "options": [
+          {"id": "a", "text": "Lipoma"},
+          {"id": "b", "text": "Hemangioma"},
+          {"id": "c", "text": "Schwannoma"},
+          {"id": "d", "text": "Fibroma"}
+        ],
+        "correct_answer": "a",
+        "explanation": "Lipoma is the most common benign soft tissue tumor, composed of mature adipose (fat) cells."
+      },
+      {
+        "id": "19.2",
+        "question": "Dupuytren's contracture primarily affects which structure?",
+        "options": [
+          {"id": "a", "text": "Muscle belly"},
+          {"id": "b", "text": "Tendon sheath"},
+          {"id": "c", "text": "Palmar fascia"},
+          {"id": "d", "text": "Joint capsule"}
+        ],
+        "correct_answer": "c",
+        "explanation": "Dupuytren's contracture is a progressive fibrosis of the palmar fascia, leading to contracture of fingers, most commonly affecting the ring and little fingers."
+      }
+      // ... remaining basic level questions
+    ],
+    "moderate_level": [
+      // ... moderate level questions
+    ],
+    "high_level": [
+      // ... high level questions
+    ]
+  }
+}

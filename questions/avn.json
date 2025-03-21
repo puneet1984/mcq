@@ -1,0 +1,39 @@
+{
+  "topic": "AVN",
+  "total_questions": 100,
+  "questions": {
+    "basic_level": [
+      {
+        "id": "14.1",
+        "question": "What does AVN stand for in orthopedics?",
+        "options": [
+          {"id": "a", "text": "Acute Vascular Necrosis"},
+          {"id": "b", "text": "Avascular Necrosis"},
+          {"id": "c", "text": "Anterior Vertebral Notch"},
+          {"id": "d", "text": "Articular Venous Network"}
+        ],
+        "correct_answer": "b",
+        "explanation": "AVN stands for Avascular Necrosis, which is the death of bone tissue due to interruption of blood supply."
+      },
+      {
+        "id": "14.2",
+        "question": "Which of the following sites is most commonly affected by avascular necrosis?",
+        "options": [
+          {"id": "a", "text": "Femoral head"},
+          {"id": "b", "text": "Humeral head"},
+          {"id": "c", "text": "Talus"},
+          {"id": "d", "text": "Scaphoid"}
+        ],
+        "correct_answer": "a",
+        "explanation": "The femoral head is the most common site for avascular necrosis due to its vulnerable blood supply and high mechanical stress."
+      }
+      // ... remaining basic level questions
+    ],
+    "moderate_level": [
+      // ... moderate level questions
+    ],
+    "high_level": [
+      // ... high level questions
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "topic": "Club Foot / CTEV",
+  "total_questions": 100,
+  "questions": {
+    "basic_level": [
+      {
+        "id": "15.1",
+        "question": "What does CTEV stand for?",
+        "options": [
+          {"id": "a", "text": "Common Tarsal Equinus Varus"},
+          {"id": "b", "text": "Congenital Talipes Equinovarus"},
+          {"id": "c", "text": "Chronic Tendon Equinus Valgus"},
+          {"id": "d", "text": "Calcaneotalar Eversion Varus"}
+        ],
+        "correct_answer": "b",
+        "explanation": "CTEV stands for Congenital Talipes Equinovarus, commonly known as clubfoot, which is a congenital deformity involving the foot and ankle."
+      },
+      {
+        "id": "15.2",
+        "question": "Which of the following is NOT a component of clubfoot deformity?",
+        "options": [
+          {"id": "a", "text": "Equinus"},
+          {"id": "b", "text": "Hindfoot varus"},
+          {"id": "c", "text": "Forefoot adduction"},
+          {"id": "d", "text": "Calcaneal deformity"}
+        ],
+        "correct_answer": "d",
+        "explanation": "Clubfoot consists of four components: equinus (plantarflexion of the ankle), hindfoot varus, forefoot adduction, and cavus. Calcaneal deformity (dorsiflexion of the ankle) is the opposite of equinus and is not part of clubfoot."
+      }
+      // ... remaining basic level questions
+    ],
+    "moderate_level": [
+      // ... moderate level questions
+    ],
+    "high_level": [
+      // ... high level questions
+    ]
+  }
+}

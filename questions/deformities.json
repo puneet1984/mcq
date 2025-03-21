@@ -1,0 +1,39 @@
+{
+  "topic": "Deformities and Management",
+  "total_questions": 100,
+  "questions": {
+    "basic_level": [
+      {
+        "id": "12.1",
+        "question": "Which of the following terms describes a deformity with angulation toward the midline of the body?",
+        "options": [
+          {"id": "a", "text": "Varus"},
+          {"id": "b", "text": "Valgus"},
+          {"id": "c", "text": "Recurvatum"},
+          {"id": "d", "text": "Antecurvatum"}
+        ],
+        "correct_answer": "a",
+        "explanation": "Varus deformity refers to angulation toward the midline of the body. For example, genu varum (bowlegs) is a condition where the knees are angled inward."
+      },
+      {
+        "id": "12.2",
+        "question": "What is Blount's disease?",
+        "options": [
+          {"id": "a", "text": "A valgus deformity of the hip"},
+          {"id": "b", "text": "A growth disturbance of the medial proximal tibial physis"},
+          {"id": "c", "text": "A congenital dislocation of the ankle"},
+          {"id": "d", "text": "A rotational deformity of the femur"}
+        ],
+        "correct_answer": "b",
+        "explanation": "Blount's disease is a growth disorder of the medial proximal tibial physis (growth plate) that causes a varus deformity of the tibia, resulting in bowlegs."
+      }
+      // ... remaining basic level questions
+    ],
+    "moderate_level": [
+      // ... moderate level questions
+    ],
+    "high_level": [
+      // ... high level questions
+    ]
+  }
+}

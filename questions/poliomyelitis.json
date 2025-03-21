@@ -1,0 +1,39 @@
+{
+  "topic": "Poliomyelitis",
+  "total_questions": 100,
+  "questions": {
+    "basic_level": [
+      {
+        "id": "9.1",
+        "question": "Which virus causes poliomyelitis?",
+        "options": [
+          {"id": "a", "text": "Adenovirus"},
+          {"id": "b", "text": "Poliovirus"},
+          {"id": "c", "text": "Coxsackie virus"},
+          {"id": "d", "text": "Herpes virus"}
+        ],
+        "correct_answer": "b",
+        "explanation": "Poliomyelitis is caused by poliovirus, which is an enterovirus belonging to the Picornaviridae family. It has three serotypes: PV1, PV2, and PV3."
+      },
+      {
+        "id": "9.2",
+        "question": "Which cells in the central nervous system are primarily affected by the poliovirus?",
+        "options": [
+          {"id": "a", "text": "Upper motor neurons"},
+          {"id": "b", "text": "Lower motor neurons"},
+          {"id": "c", "text": "Sensory neurons"},
+          {"id": "d", "text": "Interneurons"}
+        ],
+        "correct_answer": "b",
+        "explanation": "Poliovirus primarily affects the anterior horn cells of the spinal cord, which are lower motor neurons. This leads to the characteristic flaccid paralysis seen in poliomyelitis."
+      }
+      // ... remaining basic level questions
+    ],
+    "moderate_level": [
+      // ... moderate level questions
+    ],
+    "high_level": [
+      // ... high level questions
+    ]
+  }
+}

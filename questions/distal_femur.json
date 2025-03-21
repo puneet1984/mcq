@@ -1,0 +1,39 @@
+{
+  "topic": "Distal Femur Fractures",
+  "total_questions": 100,
+  "questions": {
+    "basic_level": [
+      {
+        "id": "4.1",
+        "question": "Which of the following is NOT a part of the distal femur anatomy?",
+        "options": [
+          {"id": "a", "text": "Medial condyle"},
+          {"id": "b", "text": "Lateral condyle"},
+          {"id": "c", "text": "Intercondylar notch"},
+          {"id": "d", "text": "Greater trochanter"}
+        ],
+        "correct_answer": "d",
+        "explanation": "The greater trochanter is part of the proximal femur, not the distal femur. The distal femur consists of medial and lateral condyles, intercondylar notch, and the trochlear groove."
+      },
+      {
+        "id": "4.2",
+        "question": "Which anatomical structure is at highest risk during surgical approaches to distal femur fractures?",
+        "options": [
+          {"id": "a", "text": "Popliteal artery"},
+          {"id": "b", "text": "Tibial nerve"},
+          {"id": "c", "text": "Femoral nerve"},
+          {"id": "d", "text": "Common peroneal nerve"}
+        ],
+        "correct_answer": "a",
+        "explanation": "The popliteal artery lies in close proximity to the posterior aspect of the distal femur and is at highest risk during surgical approaches to distal femur fractures."
+      }
+      // ... remaining basic level questions
+    ],
+    "moderate_level": [
+      // ... moderate level questions
+    ],
+    "high_level": [
+      // ... high level questions
+    ]
+  }
+}

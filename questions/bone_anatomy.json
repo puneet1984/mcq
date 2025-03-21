@@ -1,0 +1,75 @@
+{
+  "topic": "Bone Anatomy & Fracture Healing",
+  "total_questions": 100,
+  "questions": {
+    "basic_level": [
+      {
+        "id": "1.1",
+        "question": "Which of the following best describes the primary ossification center?",
+        "options": [
+          {"id": "a", "text": "Appears in the diaphysis during fetal development"},
+          {"id": "b", "text": "Appears in the epiphysis after birth"},
+          {"id": "c", "text": "Appears in the metaphysis during adolescence"},
+          {"id": "d", "text": "Appears in the medullary cavity"}
+        ],
+        "correct_answer": "a",
+        "explanation": "Primary ossification centers appear in the diaphysis (shaft) of long bones during fetal development, initiating the process of endochondral ossification."
+      },
+      {
+        "id": "1.2",
+        "question": "What is the primary function of osteoblasts?",
+        "options": [
+          {"id": "a", "text": "Bone resorption"},
+          {"id": "b", "text": "Bone formation"},
+          {"id": "c", "text": "Blood cell formation"},
+          {"id": "d", "text": "Cartilage formation"}
+        ],
+        "correct_answer": "b",
+        "explanation": "Osteoblasts are bone-forming cells responsible for synthesizing and secreting bone matrix proteins and mineralizing the matrix."
+      },
+      {
+        "id": "1.3",
+        "question": "Which cell type is responsible for bone resorption?",
+        "options": [
+          {"id": "a", "text": "Osteoblasts"},
+          {"id": "b", "text": "Osteocytes"},
+          {"id": "c", "text": "Osteoclasts"},
+          {"id": "d", "text": "Chondrocytes"}
+        ],
+        "correct_answer": "c",
+        "explanation": "Osteoclasts are multinucleated cells responsible for bone resorption through the secretion of acids and enzymes."
+      }
+      // ... Add remaining basic level questions (up to 1.40)
+    ],
+    "moderate_level": [
+      {
+        "id": "1.41",
+        "question": "During fracture healing, what is the primary function of the inflammatory phase?",
+        "options": [
+          {"id": "a", "text": "Formation of hard callus"},
+          {"id": "b", "text": "Formation of soft callus"},
+          {"id": "c", "text": "Hematoma formation and cellular recruitment"},
+          {"id": "d", "text": "Bone remodeling"}
+        ],
+        "correct_answer": "c",
+        "explanation": "The inflammatory phase involves hematoma formation and recruitment of inflammatory cells that initiate the healing cascade."
+      }
+      // ... Add remaining moderate level questions (up to 1.80)
+    ],
+    "high_level": [
+      {
+        "id": "1.81",
+        "question": "Which growth factor plays the most crucial role in coupling bone formation to bone resorption?",
+        "options": [
+          {"id": "a", "text": "TGF-β"},
+          {"id": "b", "text": "BMP-2"},
+          {"id": "c", "text": "IGF-1"},
+          {"id": "d", "text": "PDGF"}
+        ],
+        "correct_answer": "a",
+        "explanation": "TGF-β is released from bone matrix during resorption and stimulates osteoblast differentiation, coupling bone formation to resorption."
+      }
+      // ... Add remaining high level questions (up to 1.100)
+    ]
+  }
+}

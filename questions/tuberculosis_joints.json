@@ -1,0 +1,39 @@
+{
+  "topic": "Tuberculosis of Joints - Spine Hip Knee",
+  "total_questions": 100,
+  "questions": {
+    "basic_level": [
+      {
+        "id": "11.1",
+        "question": "Which region of the spine is most commonly affected by tuberculosis?",
+        "options": [
+          {"id": "a", "text": "Cervical spine"},
+          {"id": "b", "text": "Thoracic spine"},
+          {"id": "c", "text": "Lumbar spine"},
+          {"id": "d", "text": "Sacral spine"}
+        ],
+        "correct_answer": "b",
+        "explanation": "The thoracic spine is most commonly affected by tuberculosis (about 50% of cases), followed by the lumbar spine. This is due to the rich vascular supply and lymphatic drainage in this region."
+      },
+      {
+        "id": "11.2",
+        "question": "Which type of onset is most commonly observed in tuberculosis of the hip?",
+        "options": [
+          {"id": "a", "text": "Acute onset with severe pain"},
+          {"id": "b", "text": "Insidious onset with progressive symptoms"},
+          {"id": "c", "text": "Sudden onset with joint locking"},
+          {"id": "d", "text": "Recurrent episodes of joint swelling"}
+        ],
+        "correct_answer": "b",
+        "explanation": "Tuberculosis of the hip typically presents with an insidious onset characterized by gradually worsening pain, progressive limitation of movement, and muscle wasting over weeks to months."
+      }
+      // ... remaining basic level questions
+    ],
+    "moderate_level": [
+      // ... moderate level questions
+    ],
+    "high_level": [
+      // ... high level questions
+    ]
+  }
+}

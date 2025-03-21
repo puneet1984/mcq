@@ -1,0 +1,39 @@
+{
+  "topic": "Distal Tibia Fractures",
+  "total_questions": 100,
+  "questions": {
+    "basic_level": [
+      {
+        "id": "6.1",
+        "question": "Which anatomical structure forms the lateral malleolus?",
+        "options": [
+          {"id": "a", "text": "Distal tibia"},
+          {"id": "b", "text": "Distal fibula"},
+          {"id": "c", "text": "Talus"},
+          {"id": "d", "text": "Calcaneus"}
+        ],
+        "correct_answer": "b",
+        "explanation": "The lateral malleolus is formed by the distal end of the fibula, which articulates with the talus and tibia to form part of the ankle joint."
+      },
+      {
+        "id": "6.2",
+        "question": "Which ligament connects the distal tibia and fibula, forming the syndesmosis?",
+        "options": [
+          {"id": "a", "text": "Deltoid ligament"},
+          {"id": "b", "text": "Anterior talofibular ligament"},
+          {"id": "c", "text": "Tibiofibular ligament"},
+          {"id": "d", "text": "Calcaneofibular ligament"}
+        ],
+        "correct_answer": "c",
+        "explanation": "The tibiofibular ligament complex (anterior, posterior, and interosseous) connects the distal tibia and fibula, forming the syndesmosis joint which is crucial for ankle stability."
+      }
+      // ... remaining basic level questions
+    ],
+    "moderate_level": [
+      // ... moderate level questions
+    ],
+    "high_level": [
+      // ... high level questions
+    ]
+  }
+}

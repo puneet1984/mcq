@@ -1,0 +1,39 @@
+{
+  "topic": "Osteoarthritis & RA",
+  "total_questions": 100,
+  "questions": {
+    "basic_level": [
+      {
+        "id": "16.1",
+        "question": "Which of the following is a pathological feature of osteoarthritis?",
+        "options": [
+          {"id": "a", "text": "Pannus formation"},
+          {"id": "b", "text": "Joint space narrowing"},
+          {"id": "c", "text": "Synovial hyperplasia"},
+          {"id": "d", "text": "Rheumatoid nodules"}
+        ],
+        "correct_answer": "b",
+        "explanation": "Joint space narrowing due to articular cartilage loss is a cardinal radiographic and pathological feature of osteoarthritis."
+      },
+      {
+        "id": "16.2",
+        "question": "Which autoantibody is most specific for rheumatoid arthritis?",
+        "options": [
+          {"id": "a", "text": "Antinuclear antibody (ANA)"},
+          {"id": "b", "text": "Anti-cyclic citrullinated peptide (anti-CCP) antibody"},
+          {"id": "c", "text": "Anti-double stranded DNA antibody"},
+          {"id": "d", "text": "Anti-Smith antibody"}
+        ],
+        "correct_answer": "b",
+        "explanation": "Anti-cyclic citrullinated peptide (anti-CCP) antibodies are highly specific for rheumatoid arthritis and are useful in early diagnosis."
+      }
+      // ... remaining basic level questions
+    ],
+    "moderate_level": [
+      // ... moderate level questions
+    ],
+    "high_level": [
+      // ... high level questions
+    ]
+  }
+}
